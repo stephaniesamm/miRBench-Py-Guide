@@ -25,7 +25,7 @@ The Python script `benchmark.py` by default gets you predictions from all tools 
 
 From the command line, run:
 
-`python benchmark_script.py [--out_dir OUT_DIR] [--predictors PREDICTOR [PREDICTOR ...]] [--datasets DATASET [DATASET ...]] [--ratios RATIO [RATIO ...]]`
+`python benchmark.py [--out_dir OUT_DIR] [--predictors PREDICTOR [PREDICTOR ...]] [--datasets DATASET [DATASET ...]] [--ratios RATIO [RATIO ...]]`
 
 #### Arguments
 `--out_dir`: Output directory for predictions (default: current directory)
