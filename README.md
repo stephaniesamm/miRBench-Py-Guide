@@ -29,8 +29,11 @@ From the command line, run:
 
 #### Arguments
 `--out_dir`: Output directory for predictions (default: current directory)
+
 `--predictors`: List of predictors to benchmark (default: all available in miRBench)
+
 `--datasets`: List of datasets to benchmark (default: all available in miRBench)
+
 `--ratios`: List of ratios to benchmark (default: ["1", "10", "100"])
 
 #### Output
